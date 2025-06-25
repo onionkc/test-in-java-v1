@@ -1,0 +1,15 @@
+spring:
+  data:
+    redis:
+      host: prod-redis-server
+      port: 6379
+      database: 2
+      password: ${REDIS_PASSWORD:}
+
+# 生产环境配置
+logging:
+  level:
+    "[com.kangcong.yian]": WARN
+    "[org.springframework.web]": WARN
+  file:
+    name: logs/yian.log 

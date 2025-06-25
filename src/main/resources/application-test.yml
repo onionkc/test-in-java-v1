@@ -1,0 +1,12 @@
+spring:
+  data:
+    redis:
+      host: test-redis-server
+      port: 6379
+      database: 1
+
+# 测试环境配置
+logging:
+  level:
+    "[com.kangcong.yian]": INFO
+    "[org.springframework.web]": INFO 

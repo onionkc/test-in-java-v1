@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: yian
+  profiles:
+    active: dev
+
+server:
+  port: 8088
+  servlet:
+    context-path: /yian

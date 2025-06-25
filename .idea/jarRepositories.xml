@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="aliyun-spring" />
+      <option name="name" value="aliyun Repository" />
+      <option name="url" value="https://maven.aliyun.com/repository/spring/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aliyun-apache snapshots" />
+      <option name="name" value="aliyun Repository" />
+      <option name="url" value="https://maven.aliyun.com/repository/apache-snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aliyun-google" />
+      <option name="name" value="aliyun Repository" />
+      <option name="url" value="https://maven.aliyun.com/repository/google" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-snapshots" />
+      <option name="name" value="nexus-snapshots" />
+      <option name="url" value="http://192.168.2.20:8081/nexus/content/repositories/tytLR" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="archetype" />
+      <option name="name" value="archetype" />
+      <option name="url" value="https://packages.aliyun.com/maven/repository/2130733-release-ETZVtZ/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-releases" />
+      <option name="name" value="nexus-releases" />
+      <option name="url" value="http://192.168.2.20:8081/nexus/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aliyun-spring-plugin" />
+      <option name="name" value="aliyun Repository" />
+      <option name="url" value="https://maven.aliyun.com/repository/spring-plugin" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aliyun-grails-core" />
+      <option name="name" value="aliyun Repository" />
+      <option name="url" value="https://maven.aliyun.com/repository/grails-core" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="rdc-snapshots" />
+      <option name="name" value="rdc-snapshots" />
+      <option name="url" value="https://packages.aliyun.com/maven/repository/2130733-snapshot-d2CMZk/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="rdc-releases" />
+      <option name="name" value="rdc-releases" />
+      <option name="url" value="https://packages.aliyun.com/maven/repository/2130733-release-ETZVtZ/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tytG" />
+      <option name="name" value="tyt-group" />
+      <option name="url" value="http://192.168.2.20:8081/nexus/content/groups/tytG/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aliyun-repos" />
+      <option name="name" value="aliyun Repository" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aliyun-gradle-plugin" />
+      <option name="name" value="aliyun Repository" />
+      <option name="url" value="https://maven.aliyun.com/repository/gradle-plugin" />
+    </remote-repository>
+  </component>
+</project>

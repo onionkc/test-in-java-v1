@@ -1,4 +1,5 @@
-package com.kangcong.yian.test1;
+// 此文件将被移动到controller目录下
+package com.kangcong.yian.controller;
 
 import java.util.concurrent.CountDownLatch;
 

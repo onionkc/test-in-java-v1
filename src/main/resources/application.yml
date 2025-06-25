@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: yian
+  profiles:
+    active: dev
+
+server:
+  port: 8088
+  servlet:
+    context-path: /yian
+
+# 如果需要其他环境，可以在这里添加
+# spring:
+#   profiles:
+#     active: prod
+#   data:
+#     redis:
+#       host: prod-redis-host
+#       port: 6379
+#
+# server:
+#   port: 8088
+#   servlet:
+#     context-path: /yian 
